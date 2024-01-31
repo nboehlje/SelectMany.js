@@ -4,6 +4,9 @@ This was a collaboration with [@eriksraman](https://github.com/eriksraman).
 
 ![selectMany](https://github.com/nboehlje/SelectMany.js/assets/129898106/5d484316-f313-4144-a141-d56e50b39fac)
 
+## Dependencies 
+- [Bootstrap 5](https://getbootstrap.com)
+
 ## Installation
 
 #### HTML: 

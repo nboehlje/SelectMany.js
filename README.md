@@ -2,7 +2,7 @@
 A Bootstrap 5 native searchable select input.
 This was a collaboration with [@eriksraman](https://github.com/eriksraman). 
 
-![Untitled video (1)](https://github.com/Sukup-Manufacturing-Company/SukupSelect/assets/129898106/9678cca0-bb89-4271-9785-5472342f5a4b)
+![selectMany](https://github.com/nboehlje/SelectMany.js/assets/129898106/5d484316-f313-4144-a141-d56e50b39fac)
 
 ## Installation
 

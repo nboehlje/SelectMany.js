@@ -1,6 +1,6 @@
 # SelectMany.js
 A Bootstrap 5 native searchable select input.
-This was a collaboration with @eriksraman. 
+This was a collaboration with [@eriksraman](https://github.com/eriksraman). 
 
 ![Untitled video (1)](https://github.com/Sukup-Manufacturing-Company/SukupSelect/assets/129898106/9678cca0-bb89-4271-9785-5472342f5a4b)
 
